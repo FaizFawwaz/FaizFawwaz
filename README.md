@@ -8,6 +8,11 @@
 [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg' alt='python' height='50' width='50'>](https://www.python.org/)
 
 
+**Libraries:**
+
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg' alt='pandas' height='50' width='50'>](https://pandas.pydata.org/)
+
+
 **Data Visualization:**
 
 [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg' alt='tableau' height='80' width='100'>](https://public.tableau.com/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg' alt='microsoft-power-bi' height='50' width='50'>](https://www.microsoft.com/en-us/power-platform/products/power-bi/)     
