@@ -21,7 +21,7 @@
 
 **Spreadsheets:**
 
-[<img src='https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg' alt='Microsoft_Office_Excel' height='50' width='50'>](https://www.microsoft.com/en-my/microsoft-365/excel) 
+[<img src='<img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/>](https://www.microsoft.com/en-my/microsoft-365/excel) 
 
 
 **Tools and Services:**
