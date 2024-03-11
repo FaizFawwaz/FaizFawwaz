@@ -5,7 +5,7 @@
                      
 **Languages:**
 
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg' alt='javascript' height='50' width='50'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg' alt='typescript' height='50' width='50'>](https://www.typescriptlang.org/) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg' alt='php' height='50' width='50'>](https://www.php.net/)   [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg' alt='dartda' height='50' width='50'>](https://dart.dev/)
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg' alt='python' height='50' width='50'>](https://www.python.org/)
 
 **CSS Frameworks:**
 
