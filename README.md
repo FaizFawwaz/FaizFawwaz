@@ -31,4 +31,4 @@
 
 **Tools and Services:**
 
- [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft.svg' alt='microsoft' height='80' width='100'>](https://www.office.com/)   [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg' alt='visual-studio-code' height='80' width='100'>](https://code.visualstudio.com/) 
+ [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft.svg' alt='microsoft' height='80' width='100'>](https://www.office.com/)   [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg' alt='visual-studio-code' height='60' width='60'>](https://code.visualstudio.com/) 
