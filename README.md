@@ -29,4 +29,4 @@
 
 **Tools and Services:**
 
- [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft.svg' alt='microsoft' height='50' width='50'>](https://www.office.com/)  
+ [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft.svg' alt='microsoft' height='80' width='100'>](https://www.office.com/)  
