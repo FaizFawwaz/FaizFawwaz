@@ -26,7 +26,7 @@
 
 **Spreadsheets:**
 
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/>](https://www.microsoft.com/en-my/microsoft-365/excel) 
+[<img width="60" height="60" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/>](https://www.microsoft.com/en-my/microsoft-365/excel) 
 
 
 **Tools and Services:**
