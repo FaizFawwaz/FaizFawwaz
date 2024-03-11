@@ -9,7 +9,7 @@
 
 **Data Visualization:**
 
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg' alt='tableau' height='50' width='50'>](https://public.tableau.com/)   
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg' alt='tableau' height='80' width='100'>](https://public.tableau.com/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg' alt='microsoft-power-bi' height='50' width='50'>](https://www.microsoft.com/en-us/power-platform/products/power-bi/)     
 
 **Mobile Application Frameworks:**
 
