@@ -21,7 +21,7 @@
 
 **Databases:**
 
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg' alt='mysql' height='50' width='50'>](https://www.mysql.com/) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg' alt='postgresql' height='50' width='50'>](https://www.postgresql.org/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sqlite.svg' alt='sqlite' height='50' width='50'>](https://www.sqlite.org/index.html)   
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg' alt='mysql' height='80' width='80'>](https://www.mysql.com/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg' alt='postgresql' height='80' width='80'>](https://www.postgresql.org/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sqlite.svg' alt='sqlite' height='80' width='80'>](https://www.sqlite.org/index.html)   
 
 
 **Spreadsheets:**
