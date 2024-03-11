@@ -10,7 +10,7 @@
 
 **Libraries:**
 
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg' alt='pandas' height='80' width='100'>](https://pandas.pydata.org/)
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg' alt='pandas' height='80' width='100'>](https://pandas.pydata.org/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg' alt='numpy' height='80' width='100'>](https://numpy.org/doc/stable/index.html)
 
 
 **Data Visualization:**
