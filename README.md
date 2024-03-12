@@ -2,9 +2,8 @@
 - **I'm Faiz Fawwaz 👋**
 - Currently working on Data Analytic
 
-(https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-(https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+![](https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/overview.svg#gh-light-mode-only)
                      
 **Languages:**
 
