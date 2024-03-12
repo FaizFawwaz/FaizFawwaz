@@ -2,11 +2,11 @@
 - **I'm Faiz Fawwaz 👋**
 - Currently working on Data Analytic
 
-![](https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<p>
+  <img align="center" src="https://github.com/FaizFawwaz/github-stats/blob/master/generated/overview.svg">
+  <img align="center" src="https://github.com/FaizFawwaz/github-stats/blob/master/generated/languages.svg">
+</p>
 
-![](https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/FaizFawwaz/github-stats/master/generated/languages.svg#gh-light-mode-only)
                      
 **Languages:**
 
