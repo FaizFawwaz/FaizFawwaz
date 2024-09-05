@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi%20there&type=waving&color=0:04619f,100:000000&height=250&section=header&fontSize=70&animation=scaleIn&fontColor=ffffff)
 - **I'm Faiz Fawwaz 👋**
-- Currently working as Programmer Analyst
+- Currently working as Analyst Programmer
 
 <p>
   <img align="center" src="https://github.com/FaizFawwaz/github-stats/blob/master/generated/overview.svg">
