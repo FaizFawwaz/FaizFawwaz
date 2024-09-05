@@ -10,7 +10,7 @@
                      
 **Languages:**
 
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg' alt='python' height='50' width='50'>](https://www.python.org/)    <img width="60" height="60" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg' alt='python' height='50' width='50'>](https://www.python.org/)    <img width="60" height="60" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> <img width="60" height="60" src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" alt="r-project"/>
 
 
 **Libraries:**
