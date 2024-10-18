@@ -22,8 +22,8 @@
 
 [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg' alt='pandas' height='80' width='100'>](https://pandas.pydata.org/)  
 [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg' alt='numpy' height='80' width='100'>](https://numpy.org/doc/stable/index.html)
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg' alt='bootstrap' height='50' width='50'>](https://getbootstrap.com/)
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg' alt='tailwind' height='50' width='50'>](https://tailwindcss.com/)
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg' alt='bootstrap' height='80' width='100'>](https://getbootstrap.com/)
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg' alt='tailwind' height='80' width='100'>](https://tailwindcss.com/)
 
 **Data Visualization:**
 
