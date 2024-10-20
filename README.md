@@ -48,3 +48,5 @@
  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft.svg' alt='microsoft' height='80' width='100'>](https://www.office.com/)    
  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg' alt='visual-studio-code' height='50' width='50'>](https://code.visualstudio.com/)    
  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wordpress.svg' alt='wordpress.svg' height='80' width='100'>](https://wordpress.org/) 
+
+ [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg' alt='laravel' height='80' width='100'>](https://laravel.com/)
